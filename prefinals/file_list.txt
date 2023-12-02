@@ -1,0 +1,21 @@
+2017 Q1.arff
+2017 Q2.arff
+2017 Q3.arff
+2017 Q4.arff
+2017.arff
+2018 Q1.arff
+2018 Q2.arff
+2018 Q3.arff
+2018 Q4.arff
+2018.arff
+2019 Q1.arff
+2019 Q2.arff
+2019 Q3.arff
+2019 Q4.arff
+2019.arff
+2020 Q1.arff
+2020 Q2.arff
+2020 Q3.arff
+2020 Q4.arff
+2020.arff
+2021 Q1.arff
